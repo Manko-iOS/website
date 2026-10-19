@@ -11,8 +11,8 @@
 
 #device-selector{width:320px;max-width:100%;flex-shrink:0;--background:var(--tab)}
 ion-segment-button{--color:var(--muted);--color-checked:var(--text);--indicator-color:var(--selected);min-width:0;min-height:44px;font-size:.9375rem}
-#reader-panel{width:100%;height:auto;align-items:flex-start}
-.reader-page{min-width:0;overflow-y:visible}
+#reader-panel{width:100%;height:auto;align-items:flex-start;overflow-y:hidden}
+.reader-page{min-width:0;height:100%;overflow:clip}
 ion-segment:not(:defined){display:flex;justify-content:space-around}
 ion-segment-view:not(:defined){display:block}
 ion-segment-view:not(:defined) ion-segment-content:not(:first-child){display:none}

@@ -1,0 +1,81 @@
+{
+  "capturedFor": "Manko website showcase",
+  "publicationsBundled": false,
+  "sources": [
+    {
+      "title": "Alice’s Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "source": "https://www.gutenberg.org/ebooks/11",
+      "edition": "Existing locally downloaded Gutenberg EPUB",
+      "cover": "Original typographic cover, CC0 1.0",
+      "rights": "Book public domain in the USA; rights vary by jurisdiction"
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "source": "https://www.gutenberg.org/ebooks/2701",
+      "download": "https://www.gutenberg.org/ebooks/2701.epub3.images",
+      "cover": "Cover embedded in the Gutenberg EPUB",
+      "rights": "Public domain in the USA; rights vary by jurisdiction"
+    },
+    {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "source": "https://www.gutenberg.org/ebooks/345",
+      "download": "https://www.gutenberg.org/ebooks/345.epub3.images",
+      "cover": "Cover embedded in the Gutenberg EPUB",
+      "rights": "Public domain in the USA; rights vary by jurisdiction"
+    },
+    {
+      "title": "Give My Regards to Black Jack",
+      "author": "SHUHO SATO",
+      "source": "https://www.densho810.com/free/",
+      "download": "https://densho810.com/free/dl/enbj001.zip",
+      "excerpt": "Official English Volume 1, PDF pages 6–8, existing ReaderSetupComic.cbz",
+      "rights": "Distributor secondary-use terms; title and author credit required",
+      "releaseAction": "Report public use to info@densho810.com within one month of public release. No email has been sent."
+    },
+    {
+      "title": "Space Adventures #1",
+      "author": "Charlton Publications; cover by Al Fago and Lou Morales",
+      "source": "https://commons.wikimedia.org/wiki/File:Space_Adventures_1.jpg",
+      "download": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Space_Adventures_1.jpg",
+      "scanCredit": "Chordboard",
+      "scanLicense": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "rights": "Underlying 1952 US comic documented as public domain due to nonrenewal; scan also offered under CC BY-SA 3.0",
+      "changes": "Proportional resizing and WebP encoding; shown inside screenshots",
+      "excerpt": "Cover only"
+    }
+  ],
+  "frames": {
+    "source": "https://developer.apple.com/design/resources/",
+    "iphone": "Apple iPhone 17 White portrait, existing approved asset",
+    "ipad": "Apple iPad Pro M5 Silver landscape, existing approved asset",
+    "mac": "Apple MacBook Air M5 15-inch Silver",
+    "macDownload": "https://devimages-cdn.apple.com/design/resources/download/Bezel-MacBook-Air-M5.dmg",
+    "license": "Apple Design Resources license; accepted by user on 2026-10-19",
+    "treatment": "Proportional WebP export; screenshots fitted to original screen openings without stretching",
+    "macGeometry": {
+      "size": [
+        3540,
+        2300
+      ],
+      "screen": [
+        330,
+        218,
+        2880,
+        1864
+      ]
+    }
+  },
+  "sampleNotice": "Sample titles are not bundled with Manko. Publisher endorsement is not implied.",
+  "macCaptures": {
+    "change": "Exclude only top 64 native pixels containing macOS sharing chrome and cursor highlight; all Manko reader controls retained",
+    "source": "Original native app captures retained privately by Manko"
+  },
+  "discord": {
+    "source": "https://discord.com/branding",
+    "asset": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d8014ea898f3a4b2156c_Symbol.svg",
+    "treatment": "Official symbol rendered in white on Discord blurple (#5865F2), geometry unchanged"
+  }
+}

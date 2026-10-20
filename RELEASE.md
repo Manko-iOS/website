@@ -8,9 +8,9 @@ Subject: Give My Regards to Black Jack — website use report
 
 Prepared message (not sent):
 
-We use officially distributed artwork from Give My Regards to Black Jack by SHUHO SATO in screenshots demonstrating Manko's reader. The title and author credit appear alongside the screenshots. The book itself is not distributed by the website.
+We use officially distributed artwork from Give My Regards to Black Jack by SHUHO SATO in screenshots demonstrating Mango's reader. The title and author credit appear alongside the screenshots. The book itself is not distributed by the website.
 
-Website: https://manko-ios.github.io/website/
+Website: https://mangoreader-ios.github.io/website/
 Intended custom domain: https://manko.app/ (confirm it is active before using this address in the report).
 Source: https://www.densho810.com/free/
 

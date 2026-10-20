@@ -1,5 +1,5 @@
 {
-  "capturedFor": "Manko website showcase",
+  "capturedFor": "Mango website showcase",
   "publicationsBundled": false,
   "sources": [
     {
@@ -68,10 +68,10 @@
       ]
     }
   },
-  "sampleNotice": "Sample titles are not bundled with Manko. Publisher endorsement is not implied.",
+  "sampleNotice": "Sample titles are not bundled with Mango. Publisher endorsement is not implied.",
   "macCaptures": {
-    "change": "Exclude only top 64 native pixels containing macOS sharing chrome and cursor highlight; all Manko reader controls retained",
-    "source": "Original native app captures retained privately by Manko"
+    "change": "Exclude only top 64 native pixels containing macOS sharing chrome and cursor highlight; all Mango reader controls retained",
+    "source": "Original native app captures retained privately by Mango"
   },
   "discord": {
     "source": "https://discord.com/branding",
